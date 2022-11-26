@@ -1,0 +1,12 @@
+
+PROFESSOR ->
+- Cadastro de professores (informações pessoais e o porque de procurar o aplicativo).
+- Area do professor (horário disponíveis e editar informações).
+
+PROFISIONAL ->
+-Cadastro de Profissionais (informações pessoais e profissionais (especialidade, valor estimado da consulta). 
+-Area do profissional (agenda de consulta e editar informações).
+
+SISTEMA ->
+-Sistema de comunicação/consulta (Meet).
+- Sistema de pagamento interno (pagamento ao app via pix, cartão de credito, debito entre outros, cadastro de cartão e repasse do valor aos profissionais)
